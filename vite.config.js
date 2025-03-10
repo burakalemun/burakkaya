@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/burakkaya.github.io/',  // GitHub repository adını buraya ekle
+  base: '/',  // GitHub repository adını buraya ekle
   plugins: [
     tailwindcss(),
     react()
