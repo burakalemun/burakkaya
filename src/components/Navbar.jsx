@@ -14,7 +14,7 @@ const Navbar = () => {
                 <a href="https://github.com/burakalemun" target="_blank" rel="noopener noreferrer">
                     <FaGithub className="hover:text-gray-500 transition-all duration-200" />
                 </a>
-                <a href="https://www.instagram.com/burakayaa.11/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/burakayaaa.11/" target="_blank" rel="noopener noreferrer">
                     <FaInstagram className="hover:text-pink-500 transition-all duration-200" />
                 </a>
                 <a href="#" target="_blank" rel="noopener noreferrer">
