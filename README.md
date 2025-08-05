@@ -1,1 +1,1 @@
-Portfölye Web Sitem.
+Portfolyo Web Sitem.
