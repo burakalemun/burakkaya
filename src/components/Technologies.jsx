@@ -21,7 +21,7 @@ const Technologies = () => {
                 {[
                     { icon: <RiReactjsLine className="text-7xl text-cyan-400"/>, duration: 2.5 },
                     { icon: <TbBrandSwift className="text-7xl text-orange-600"/>, duration: 3 },
-                    { icon: <SiGit className="text-7xl text-black"/>, duration: 4 },
+                    { icon: <SiGit className="text-7xl text-red"/>, duration: 4 },
                     { icon: <FaHtml5 className="text-7xl text-orange-500"/>, duration: 3 },
                     { icon: <FaJava className="text-7xl text-red-600"/>, duration: 5 },
                     { icon: <SiFirebase className="text-7xl text-yellow-600"/>, duration: 4 },
